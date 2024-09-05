@@ -15,7 +15,7 @@
 ---
 
 ## 🛠 **Tech Stack**
-- **Frontend**: React.js / Next.js
+- **Frontend**: React Native
 - **Backend**: Node.js, Express.js
 
 ---
