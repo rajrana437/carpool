@@ -24,15 +24,14 @@
 
 ### **Prerequisites**
 - Node.js (v14 or above)
-- AWS Amplify account
 - Git
 
 ### **Installation**
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/[app-repo-name].git
-   cd [app-repo-name]
+   git clone https://github.com/rajrana437/carpool.git
+   cd carpool
    ```
 
 2. **Install Dependencies**
@@ -40,14 +39,7 @@
    npm install
    ```
 
-3. **Set up AWS Amplify**
-   - Initialize Amplify in the project:
-     ```bash
-     amplify init
-     ```
-   - Follow the CLI prompts to configure Amplify.
-
-4. **Run the App Locally**
+3. **Run the App Locally**
    ```bash
    npm run dev
    ```
@@ -56,7 +48,7 @@
 
 ## 🖋️ **Contributing**
 
-We welcome contributions from the open-source community to improve **[App Name]**! Whether it's fixing bugs, adding new features, or improving documentation, we appreciate all forms of support. Here's how to get started:
+We welcome contributions from the open-source community to improve **GoTogether**! Whether it's fixing bugs, adding new features, or improving documentation, we appreciate all forms of support. Here's how to get started:
 
 1. Fork the repository.
 2. Create a new branch for your feature/fix.
