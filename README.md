@@ -8,7 +8,6 @@
 ## 🌟 **Features**
 - **Ride Matching**: Connect with nearby passengers/drivers based on common routes and schedules.
 - **Eco-Friendly**: Reduce carbon footprints and traffic congestion by sharing rides.
-- **Secure Peer-to-Peer Networking**: No central data storage. All communication is private and encrypted.
 - **Personalized Profiles**: Match rides based on preferences for locations, times, and social activities.
 - **Real-Time Tracking**: Track drivers and passengers for a seamless pickup and drop-off experience.
 
